@@ -5,8 +5,9 @@ Projeto de imersão backend com a linguagem Java, para criar stickers personaliz
 
 ## 🤿  5 dias de imersão
 
-|   Vitrine DEV                                   |                     |
-|----------------|-------------------------------|-------------|
-|Nome|`'Alura Stiker'`            |'          
-|Tecnologias          |`"Java,Spring,MongoDB,Heroku,Git"`            |           |
-|Desafio         |`-- https://www.alura.com.br/imersao-java`
+| Vitrine DEV||
+| ------ | ------ |
+|Nome| Alura Sticker |
+|Tecnologias| Java,Spring,MongoDB,Heroku,Git |
+|Desafio | https://www.alura.com.br/imersao-java |
+|Api | https://aluralinguagensapi-mandvier.herokuapp.com/linguagens |
